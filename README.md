@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PankajSingh16
 - 👀 Java developer
 - 🌱 Web developer
-- 💞️ I’m looking to collaborate on language learner
+-  I’m looking to collaborate on language learner
 - 📫 reach me on insta as Pankaj_Singh_16
 
 <!---
