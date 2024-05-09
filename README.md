@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @PankajSingh16
-- 👀 Java developer
-- 🌱 Web developer
--  I’m looking to collaborate on language learner
+- 👀 Proficient  --> Java ,Learning -->Python
+- Database --> SQL
+- 🌱 Data Analyst
+- Chess Player
+-  I’m looking to collaborate on Data Science Project
 - 📫 reach me on insta as Pankaj_Singh_16
 
 <!---
